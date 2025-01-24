@@ -2,10 +2,10 @@
 <h3 align="center">Mobile Application Developer with Flutter Framework experience 😜</h3>
 
 <div class="row">
-    <img src="https://img.shields.io/github/followers/muhammadtalhasultan?label=Github%20followers&style=for-the-badge" alt="muhammadtalhasultan" />
-    <img src="https://img.shields.io/github/stars/muhammadtalhasultan?label=Github%20stars&style=for-the-badge" alt="muhammadtalhasultan" />
-    <img  src="https://komarev.com/ghpvc/?username=muhammadtalhasultan&label=Profile Views&color=blue&style=for-the-badge" alt="muhammadtalhasultan" />
-    <a href="https://www.linkedin.com/in/muhammadtalhasultan/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/muhammadtalhasultan/" alt="muhammadtalhasultan" /> </a>
+    <img src="https://img.shields.io/github/followers/3htsham?label=Github%20followers&style=for-the-badge" alt="3htsham" />
+    <img src="https://img.shields.io/github/stars/3htsham?label=Github%20stars&style=for-the-badge" alt="3htsham" />
+    <img  src="https://komarev.com/ghpvc/?username=3htsham&label=Profile Views&color=blue&style=for-the-badge" alt="3htsham" />
+    <a href="https://www.linkedin.com/in/ehtshamabbasi/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/3htsham/" alt="3htsham" /> </a>
 </div>
 
 Every great developer you know got there by solving problems they were unqualified to solve until they actually did it
@@ -19,15 +19,11 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 
 ### Connect With Me
 
-[<img align="left" alt="Muhammad Talha Sultan | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
-[<img align="left" alt="Muhammad Talha Sultan | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
-[<img align="left" alt="Muhammad Talha Sultan | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube]
-[<img align="left" alt="Muhammad Talha Sultan | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
-[<img align="left" alt="Muhammad Talha Sultan | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
-[<img align="left" alt="Muhammad Talha Sultan | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
-[<img align="left" alt="Muhammad Talha Sultan | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook]
-[<img align="left" alt="Muhammad Talha Sultan | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
-[<img align="left" alt="Muhammad Talha Sultan | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
+[<img align="left" alt="Ehtisham Shahid Abbasi | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
+[<img align="left" alt="Ehtisham Shahid Abbasi | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
+[<img align="left" alt="Ehtisham Shahid Abbasi | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube]
+[<img align="left" alt="Ehtisham Shahid Abbasi | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
+[<img align="left" alt="Ehtisham Shahid Abbasi | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
 
 <br />
 <br />
