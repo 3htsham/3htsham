@@ -43,29 +43,29 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadtalhasultan&show_icons=true&locale=en" alt="muhammadtalhasultan" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=3htsham&show_icons=true&locale=en" alt="3htsham" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtalhasultan&" alt="muhammadtalhasultan" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3htsham&" alt="3htsham" />
     </td>
    </tr>
 </table>
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
-      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=muhammadtalhasultan" alt="Talha's github stats"/>    
+      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=3htsham" alt="Ehtisham's github stats"/>    
     </td> 
    </tr>
 </table>
 
-<a href="https://github.com/muhammadtalhasultan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtalhasultan&theme=light&hide_langs_below=1" />
+<a href="https://github.com/3htsham">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3htsham&theme=light&hide_langs_below=1" />
 </a>
-<!-- <a href="https://github.com/muhammadtalhasultan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadtalhasultan&show_icons=true&theme=light&line_height=27" alt="Talha's github stats"/>
+<!-- <a href="https://github.com/3htsham">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=3htsham&show_icons=true&theme=light&line_height=27" alt="Ehtisham's github stats"/>
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtalhasultan&" alt="pavel401" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3htsham&" alt="pavel401" /></p>
  -->
 <br />
 <br />
@@ -73,22 +73,18 @@ Skills: Flutter / Android / Kotlin / Swift / Java / MVP / MVVM / Web Services (R
 
 ### Show some ❤️ by starring some of the repositories!
 
-<img align="center" src = "https://profile-counter.glitch.me/muhammadtalhasultan/count.svg" alt ="Loading...">
+<img align="center" src = "https://profile-counter.glitch.me/3htsham/count.svg" alt ="Loading...">
 </div>
 
 <br />
 <br />
 
-[website]: https://talhasultan.dev
-[whatsapp]: https://wa.me/923055573634
-[mail]: mailto:mail@talhasultan.dev
-[twitter]: https://twitter.com/talhasultandev
-[youtube]: https://www.youtube.com/muhammadtalhasultan
-[linkedin]: https://linkedin.com/in/muhammadtalhasultan
-[github]: https://github.com/muhammadtalhasultan
-[instagram]: https://www.instagram.com/talhasultandev
-[facebook]: https://www.facebook.com/TalhaSultanDev
-[medium]: https://medium.com/@muhammadtalhasultan
+[website]: [https://talhasultan.dev](https://ehtshamabbasi.com/)
+[whatsapp]: https://wa.me/97431474101
+[mail]: mailto:mail@ehtsham.dev@gmail.com
+[youtube]: https://www.youtube.com/@EditingCraze
+[linkedin]: https://www.linkedin.com/in/ehtshamabbasi/
+[github]: https://github.com/3htsham
 [flutter]: https://flutter.dev
 [dart]: https://dart.dev
 [vscode]: https://code.visualstudio.com
