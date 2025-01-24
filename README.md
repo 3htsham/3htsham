@@ -4,7 +4,6 @@
 <div class="row">
     <img src="https://img.shields.io/github/followers/3htsham?label=Github%20followers&style=for-the-badge" alt="3htsham" />
     <img src="https://img.shields.io/github/stars/3htsham?label=Github%20stars&style=for-the-badge" alt="3htsham" />
-    <img  src="https://komarev.com/ghpvc/?username=3htsham&label=Profile Views&color=blue&style=for-the-badge" alt="3htsham" />
     <a href="https://www.linkedin.com/in/ehtshamabbasi/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/3htsham/" alt="3htsham" /> </a>
 </div>
 
